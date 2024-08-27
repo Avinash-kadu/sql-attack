@@ -1,3 +1,5 @@
+# sql-injection-prevention-app
+
 This project implements a server connected to PostgreSQL that detects SQL injection attacks using machine learning.
 
 Features:
